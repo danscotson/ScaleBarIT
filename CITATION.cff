@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Scotson"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0002-2338-7493"
+title: "ScaleBarIT"
+version: 1.0.0
+doi: 10.5281/zenodo.13998540
+date-released: 2024-10-27
+url: "https://github.com/danscotson/ImageVis"
