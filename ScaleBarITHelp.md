@@ -12,11 +12,11 @@ Install with the ScaleBarIT_installer from the repository.
 ## Instructions on use:
 
 There are four major steps that can be performed in ScaleBarIt.
-1. Select Image
-2. Select Pixel Size
-3. Region of Interest Method
-4. Add Scale Bar
-5. Save Image
+### 1. Select Image
+### 2. Select Pixel Size
+### 3. Region of Interest Method
+### 4. Add Scale Bar
+### 5. Save Image
 
 Guiding you through these steps in the app is a colour coding system - red = not possible yet, blue = possible and green = complete.
 
@@ -27,9 +27,9 @@ Select an image file of your choice and visualise this in the app.
 Selecting the pixel size of your image is really important.
 
 Selecting the pixel size can be performed by two methdods.
-#### 1. Known (i.e. you know what the pixel size is).
+#### A. Known (i.e. you know what the pixel size is).
 - Enter the known pixel size in the pop up menu.
-#### 2. From Image (i.e. there's an existing scale bar in the uploaded image that can be used).
+#### B. From Image (i.e. there's an existing scale bar in the uploaded image that can be used).
 - Choose a region of interest containing a scale bar. This involves cropping the image. First drag the interactive box into the desired position, then right click and select 'Crop image' to confirm.
 - Then a new image will appear, click at each end of the horizontal extent of the existing scale bar. Press enter to confirm.
 - Then confirm the size of the scale bar and the units in the pop up menu.
