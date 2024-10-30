@@ -81,7 +81,7 @@ You have two options to save the image.
   ### 5. Save settings
   - Change the resolution of the saved image.
  ### 6. Info
-    - Copyright notice.
+    - Details of the copyright notice.
  
 
 
