@@ -7,18 +7,21 @@ Welcome to the ScaleBarIT guide. ScaleBarIT enable users to add scale bars to im
 Dan has built this capability during his PhD in a Materials Science field and hopes the distribution of this app will provide a tailored and simple solution to adding scale bars to images.
 
 ## Getting started:
-Install with the ScaleBarIT_installer from the repository.
+Install with the ScaleBarIT_installer.exe from the repository.
 
 ## Instructions on use:
 
-There are four major steps that can be performed in ScaleBarIt.
+There are five major steps that can be performed in ScaleBarIT.
 ### 1. Select Image
 ### 2. Select Pixel Size
 ### 3. Region of Interest Method
 ### 4. Add Scale Bar
 ### 5. Save Image
-
 Guiding you through these steps in the app is a colour coding system - red = not possible yet, blue = possible and green = complete.
+
+## Major steps in ScaleBarIT:
+
+The following steps should be followed to add scale bars to your images.
 
 ### 1. Select Image
 Select an image file of your choice and visualise this in the app.
