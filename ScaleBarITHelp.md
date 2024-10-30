@@ -1,4 +1,4 @@
-# ScaleBarIT guide
+# ScaleBarIT Guide
 
 
 **Welcome to the ScaleBarIT guide**. ScaleBarIT enable users to **add scale bars to images** quickly and efficiently. **The basic steps involve choosing your image, specifying its pixel size, then choosing a region of interest and finally adding your scale bar of choice**.
