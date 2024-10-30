@@ -16,8 +16,9 @@ There are four major steps that can be performed in ScaleBarIt.
 2. Select Pixel Size
 3. Region of Interest Method
 4. Add Scale Bar
+5. Save Image
 
-Guiding you through these steps is a colour coding system - red = not possible yet, blue = possible and green = complete.
+Guiding you through these steps in the app is a colour coding system - red = not possible yet, blue = possible and green = complete.
 
 ### 1. Select Image
 Select an image file of your choice and visualise this in the app.
@@ -47,7 +48,7 @@ You have two options here:
 
 Options are available for adding scale bars that are at least half of your image after the pixel size has been determined.
 
-## Saving an image:
+### 5. Save image:
 You have two options to save the image.
 1. Press the Save Image button once it is blue or green.
    
