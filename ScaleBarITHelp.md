@@ -11,13 +11,13 @@ Install with the ScaleBarIT_installer.exe from the repository.
 
 ## Instructions on use:
 
-There are five major steps that can be performed in ScaleBarIT.
+There are five major steps that can be performed in ScaleBarIT. Guiding you through these steps in the app is a colour coding system - red = not possible yet, blue = possible and green = complete.
+
 ### 1. Select Image
 ### 2. Select Pixel Size
 ### 3. Region of Interest Method
 ### 4. Add Scale Bar
 ### 5. Save Image
-Guiding you through these steps in the app is a colour coding system - red = not possible yet, blue = possible and green = complete.
 
 ## Major steps in ScaleBarIT:
 
