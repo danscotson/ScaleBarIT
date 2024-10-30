@@ -27,9 +27,9 @@ Select an image file of your choice and visualise this in the app.
 Selecting the pixel size of your image is really important.
 
 Selecting the pixel size can be performed by two methdods.
-1. Known (i.e. you know what the pixel size is).
+#### 1. Known (i.e. you know what the pixel size is).
 - Enter the known pixel size in the pop up menu.
-2. From Image (i.e. there's an existing scale bar in the uploaded image that can be used).
+#### 2. From Image (i.e. there's an existing scale bar in the uploaded image that can be used).
 - Choose a region of interest containing a scale bar. This involves cropping the image. First drag the interactive box into the desired position, then right click and select 'Crop image' to confirm.
 - Then a new image will appear, click at each end of the horizontal extent of the existing scale bar. Press enter to confirm.
 - Then confirm the size of the scale bar and the units in the pop up menu.
@@ -39,9 +39,9 @@ Selecting the pixel size can be performed by two methdods.
 You don't want all your image being displayed?
 
 You have two options here:
-1. Point (i.e Centre the new image around a point in the existing image)
+#### 1. Point (i.e Centre the new image around a point in the existing image)
    - Click on a single point, then press enter.
-3. Crop (i.e. UI to select a region of interest)
+#### 2. Crop (i.e. UI to select a region of interest)
 - Any crop commands require the dragging of the interactive box, then right click and select 'Crop image' to confirm.
 
 ### 4. Add Scale Bar
@@ -50,11 +50,11 @@ Options are available for adding scale bars that are at least half of your image
 
 ### 5. Save image:
 You have two options to save the image.
-1. Press the Save Image button once it is blue or green.
+#### 1. Press the Save Image button once it is blue or green.
    
    The image will be saved in a location of your choice with _proc_SB added to the filename.
 
-3. Press the Save Button that appears in the top right toolbar of the image.
+#### 2. Press the Save Button that appears in the top right toolbar of the image.
 
 ## Key bits:
 + Any crop commands require the dragging of the interactive box, then right click and select 'Crop image' to confirm.
