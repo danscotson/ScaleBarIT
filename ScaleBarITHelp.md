@@ -14,11 +14,11 @@ Install with the ScaleBarIT_installer.exe from the repository.
 
 There are **five major steps** that can be performed in ScaleBarIT. Guiding you through these steps in the app is a **colour coding system - red = not possible yet, blue = possible and green = complete**.
 
-### 1. Select Image
-### 2. Select Pixel Size
-### 3. Region of Interest Method
-### 4. Add Scale Bar
-### 5. Save Image
+1. Select Image
+2. Select Pixel Size
+3. Region of Interest Method
+4. Add Scale Bar
+5. Save Image
 
 ## Major steps in ScaleBarIT:
 
@@ -68,21 +68,32 @@ You have two options to save the image.
 
 ## Menu settings:
 ### 1. Reset
+
   - Made an error or want to reload another image/start again.
+
 ### 2. Font
+
   - Change the font name, size and font weight (e.g. 'normal' and 'bold')
   - Change the font colour
+
 ### 3. Appearance
+
    - Change the style of the scale bar - solid rectangle or H shape. The thickness of the H can also be set here.
     - Height of the footer (i.e. chosen as a % of the entire image').
    - Change the colour of the scale bar (font colour can be updated in the font menu).
 - Select position of the scale bar (e.g. bottom left or bottom right).
+
  ###  4. Edit Image
+ 
   - Rotate the image clockwise or anticlockwise by 90°.
+
   ### 5. Save settings
+  
   - Change the resolution of the saved image.
+
  ### 6. Info
-    - Details of the copyright notice.
+ 
+ - Copyright notice details will display within the user interface of the app.
  
 
 
