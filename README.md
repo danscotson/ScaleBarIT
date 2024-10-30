@@ -15,4 +15,8 @@ Please feel free to **add issues where necessary**.
 Suggestions of improvements and additional features are extremely welcome. Please feel to add issues or contact **Dan directly via email at daniel.scotson@manchester.ac.uk**.
 
 ## Project maintenance
-Dan Scotson is the sole maintainer of this project. 
+Dan Scotson is the sole maintainer of this project.
+
+## Collaboration opportunities
+If you're interested in developing this app further, please get in touch with Dan to discuss sharing of the codebase, collaboration and licensing options.
+
