@@ -63,21 +63,21 @@ You have two options to save the image.
 + Hover over buttons or functionality to get further help in the user interface.
 
 ## Menu settings:
-1. Reset
+### 1. Reset
   - Made an error or want to reload another image/start again.
-2. Font
+### 2. Font
   - Change the font name, size and font weight (e.g. 'normal' and 'bold')
   - Change the font colour
-3. Appearance
+### 3. Appearance
    - Change the style of the scale bar - solid rectangle or H shape. The thickness of the H can also be set here.
     - Height of the footer (i.e. chosen as a % of the entire image').
    - Change the colour of the scale bar (font colour can be updated in the font menu).
 - Select position of the scale bar (e.g. bottom left or bottom right).
-  4. Edit Image
+ ###  4. Edit Image
   - Rotate the image clockwise or anticlockwise by 90°.
-  5. Save settings
+  ### 5. Save settings
   - Change the resolution of the saved image.
-  6. Info
+ ### 6. Info
     - Copyright notice.
  
 
