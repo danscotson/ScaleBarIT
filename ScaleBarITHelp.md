@@ -39,9 +39,9 @@ Selecting the pixel size can be performed by two methdods.
 You don't want all your image being displayed?
 
 You have two options here:
-#### 1. Point (i.e Centre the new image around a point in the existing image)
+#### A. Point (i.e Centre the new image around a point in the existing image)
    - Click on a single point, then press enter.
-#### 2. Crop (i.e. UI to select a region of interest)
+#### B. Crop (i.e. UI to select a region of interest)
 - Any crop commands require the dragging of the interactive box, then right click and select 'Crop image' to confirm.
 
 ### 4. Add Scale Bar
