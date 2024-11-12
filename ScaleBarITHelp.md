@@ -5,7 +5,7 @@
 
 Dan has built this capability during his PhD in a Materials Science field and hopes the distribution of this app will provide a tailored and simple solution to adding scale bars to images.
 
-Written by Dan Scotson, 29/10/2024. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
+Written by Dan Scotson, 12/11/2024. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
 
 ## Getting started:
 Install with the ScaleBarIT_installer.exe from the repository.
@@ -28,9 +28,11 @@ The following steps should be followed to add scale bars to your images.
 Select an image file of your choice and visualise this in the app.
 
 ### 2. Select Pixel Size
+
 Selecting the pixel size of your image is really important.
 
-Selecting the pixel size can be performed by two methdods.
+First, the app will try to automatically extract the pixel size from the metadata of the image. If this is not possible, selecting the pixel size can be performed by two methods.
+
 #### A. Known (i.e. you know what the pixel size is).
 - Enter the known pixel size in the pop up menu.
 #### B. From Image (i.e. there's an existing scale bar in the uploaded image that can be used).
@@ -44,13 +46,13 @@ You don't want all your image being displayed?
 
 You have two options here:
 #### A. Point (i.e Centre the new image around a point in the existing image)
-   - Click on a single point, then press enter.
-#### B. Crop (i.e. UI to select a region of interest)
-- Any crop commands require the dragging of the interactive box, then right click and select 'Crop image' to confirm.
+   - Click on the Point button then proceed to select a single point on the image. Then press Confirm!
+#### B. Crop (i.e. Select a region of interest)
+- Click on Crop button and then proceeed to draw a rectangle on the image. Then press Confirm!
 
 ### 4. Add Scale Bar
 
-Options are available for adding scale bars that are at least half of your image after the pixel size has been determined.
+Options are available for adding scale bars that are less than half of your image size after the pixel size has been determined.
 
 ### 5. Save image:
 You have two options to save the image.
@@ -61,10 +63,10 @@ You have two options to save the image.
 #### 2. Press the Save Button that appears in the top right toolbar of the image.
 
 ## Key bits:
-+ Any crop commands require the dragging of the interactive box, then right click and select 'Crop image' to confirm.
 + Grayed out labels are not enabled and need another step before becoming available.
 + Feedback to user gives tips as to what is next/what has happened.
 + Hover over buttons or functionality to get further help in the user interface.
++ The crop command for selection of the pixel size requires the dragging of the interactive box, then right click and select 'Crop image' to confirm.
 
 ## Menu settings:
 ### 1. Reset
