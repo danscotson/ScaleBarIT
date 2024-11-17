@@ -5,7 +5,7 @@
 
 Dan has built this capability during his PhD in a Materials Science field and hopes the distribution of this app will provide a tailored and simple solution to adding scale bars to images.
 
-Written by Dan Scotson, 12/11/2024. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
+Written by Dan Scotson, 17/11/2024. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
 
 ## Getting started:
 Install with the ScaleBarIT_installer.exe from the repository.
@@ -93,9 +93,15 @@ You have two options to save the image.
   
   - Change the resolution of the saved image.
 
- ### 6. Info
+### 6. Measure
+
+- Measure between two points on your image once the pixel size is set. Select menu, click on point to point distance and you can create a line. The distance of the line will automatically update in the feedback to user button and also if you hover over the line.
+
+ ### 7. Info
  
  - Copyright notice details will display within the user interface of the app.
+
+   
  
 
 
