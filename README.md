@@ -20,6 +20,9 @@ Suggestions of improvements and additional features are extremely welcome. Pleas
 ## Project maintenance
 Dan Scotson is the sole maintainer of this project.
 
+## Third Party Libraries
+This software uses https://github.com/wlepage/parseTescanmetadata - see third party license folder with parseTescanmetadata_license.txt
+
 ## Collaboration opportunities
 If you're interested in developing this app further, please get in touch with Dan to discuss sharing of the codebase, collaboration and licensing options.
 
