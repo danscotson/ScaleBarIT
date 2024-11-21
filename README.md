@@ -14,8 +14,11 @@ Dan has built this capability during his PhD in a Materials Science field and ho
 If you publish any of the images created using **ScaleBarIT**, please honour the licensing and cite this repository. You can get an APA or LaTeX formatted bibliographical reference using the 'Cite this repository' feature on the right-hand information menu.
 
 ## How can I help?
-Please feel free to **add issues where necessary**.
-Suggestions of improvements and additional features are extremely welcome. Please feel to add issues or contact **Dan directly via email at daniel.scotson@manchester.ac.uk**.
+Please feel free to **add issues where necessary** or contact **Dan directly via email at daniel.scotson@manchester.ac.uk**.
+
+Suggestions of improvements and additional features are extremely welcome. 
+
+If you have a .tif image where the pixel size is not automatically detected, please raise this issue and Dan can look into adding this functionality.
 
 ## Project maintenance
 Dan Scotson is the sole maintainer of this project.
