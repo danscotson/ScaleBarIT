@@ -23,9 +23,11 @@ If you have a .tif image where the pixel size is not automatically detected, ple
 ## Project maintenance
 Dan Scotson is the sole maintainer of this project.
 
-## Third Party Libraries
-This software uses https://github.com/wlepage/parseTescanmetadata - see third party license folder with parseTescanmetadata_license.txt.
-
 ## Collaboration opportunities
 If you're interested in developing this app further, please get in touch with Dan to discuss sharing of the codebase, collaboration and licensing options.
 
+## Acknowledgements
+
+### Third-party libraries
+
+This software reuses and modifies code from https://github.com/wlepage/parseTescanmetadata (parseTescanmetadata) to parse TESCAN Mira 3 Header files to extract metadata. parseTescanmetadata is licensed under an Apache 2.0 License.
