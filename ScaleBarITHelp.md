@@ -5,7 +5,7 @@
 
 Dan has built this capability during his PhD in a Materials Science field and hopes the distribution of this app will provide a tailored and simple solution to adding scale bars to images.
 
-Written by Dan Scotson, 17/11/2024. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
+Written by Dan Scotson, 08/12/2024 for ScaleBarIT's version 1.4. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
 
 ## Getting started:
 Install with the ScaleBarIT_installer.exe from the repository.
@@ -50,9 +50,14 @@ You have two options here:
 #### B. Crop (i.e. Select a region of interest)
 - Click on Crop button and then proceeed to draw a rectangle on the image. Then press Confirm!
 
+
 ### 4. Add Scale Bar
 
-Options are available for adding scale bars that are less than half of your image size after the pixel size has been determined.
+Two options are available for adding scale bars:
+#### A. Suggested Scale Bar
+Automatic suggestions of scale bars that are half of your image size after the pixel size has been determined.
+#### B. Custom Scale Bar
+Set a custom scale bar (choose your value in the edit field) with the unit of choice. 
 
 ### 5. Save image:
 You have two options to save the image.
@@ -73,31 +78,26 @@ You have two options to save the image.
 
   - Made an error or want to reload another image/start again.
 
-### 2. Font
-
-  - Change the font name, size and font weight (e.g. 'normal' and 'bold')
-  - Change the font colour
-
-### 3. Appearance
-
-   - Change the style of the scale bar - solid rectangle or H shape. The thickness of the H can also be set here.
-    - Height of the footer (i.e. chosen as a % of the entire image').
-   - Change the colour of the scale bar (font colour can be updated in the font menu).
+### 2. Scale Bar Appearance
+- Customise the colour of the scale bar and font.
+- Customise the font name, font size and font weight (e.g. bold or normal).
+- Choose whether a pad bar is added to the image. This increases the size of the image to ensure the scale bar isn't overlaid onto your image. The pad bar's height can also be customised.
 - Select position of the scale bar (e.g. bottom left or bottom right).
+- Change the style of the scale bar - solid rectangle or H shape. The thickness of the H can also be set here.
 
- ###  4. Edit Image
+ ###  3. Edit Image
  
   - Rotate the image clockwise or anticlockwise by 90°.
 
-  ### 5. Save settings
+  ### 4. Save settings
   
   - Change the resolution of the saved image.
 
-### 6. Measure
+### 5. Measure
 
 - Measure between two points on your image once the pixel size is set. Select menu, click on point to point distance and you can create a line. The distance of the line will automatically update in the feedback to user button and also if you hover over the line.
 
- ### 7. Info
+ ### 6. Info
  
  - Copyright notice details will display within the user interface of the app.
 
