@@ -30,4 +30,6 @@ If you're interested in developing this app further, please get in touch with Da
 
 ### Third-party libraries
 
-This software reuses and modifies code from https://github.com/wlepage/parseTescanmetadata (parseTescanmetadata) to parse TESCAN Mira 3 Header files to extract metadata. parseTescanmetadata is licensed under an Apache 2.0 License.
+This software reuses and modifies code from:
+
+1) https://github.com/wlepage/parseTescanmetadata (parseTescanmetadata) to parse TESCAN Mira 3 Header files to extract metadata. parseTescanmetadata is licensed under an Apache 2.0 License.
