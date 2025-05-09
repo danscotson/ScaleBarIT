@@ -102,9 +102,10 @@ You have two options to save the image.
  - Copyright notice details will display within the user interface of the app.
 
    
- 
+ ## Default settings:
+ - New for v1.5 is the capability to customise the default parameters for the app. These included the style and placement of the scale bar, scale bar font and also the scale bar colour.
 
 
-### Further info
+## Further info
 - Add an **issue** to alert Dan to a problem with the UI.
 - Alternatively, get in touch with **Dan Scotson via email - daniel.scotson@manchester.ac.uk**.
