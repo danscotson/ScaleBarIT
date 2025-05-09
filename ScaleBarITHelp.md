@@ -5,7 +5,7 @@
 
 Dan has built this capability during his PhD in a Materials Science field and hopes the distribution of this app will provide a tailored and simple solution to adding scale bars to images.
 
-Written by Dan Scotson, 08/12/2024 for ScaleBarIT's version 1.4. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
+Written by Dan Scotson, 09/05/2025 for ScaleBarIT's version 1.5. If you have any **further questions**, please get in touch with Dan at **daniel.scotson@manchester.ac.uk**.
 
 ## Getting started:
 Install with the ScaleBarIT_installer.exe from the repository.
