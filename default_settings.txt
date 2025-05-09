@@ -1,0 +1,43 @@
+# Overview of default settings file
+# Comments
+# Name followed by a colon is a property with a particular value.
+# For example, font:10 means fontsize of 10 is the default font size
+
+
+# font settings
+fontsize: 10
+fontname: Arial
+fontweight: normal
+fontangle: normal
+
+#ScaleBarColour (rgb1,rgb2,rgb3) so (1,1,1) is white
+BarColor_rgb1: 1
+BarColor_rgb2: 1
+BarColor_rgb3: 1
+
+#FontColor (rgb1,rgb2,rgb3) so (1,1,1) is white
+FontColor_rgb1: 1
+FontColor_rgb2: 1
+FontColor_rgb3: 1
+
+
+# Scale Bar Position ('bottomRight' or 'bottomLeft')
+BarPosition: bottomRight
+
+# Units ('m','mm','um','nm')
+units: um
+
+#Overlay scale bar on image
+overlay: 0
+
+#padFraction
+padFraction: 0.1
+
+# Type of scale bar ('hollow' or 'solid')
+scalebartype: solid
+
+#padFraction
+scalebarfraction: 0.1
+
+# Save settings
+dpi: 1000
