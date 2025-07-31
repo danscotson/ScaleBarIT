@@ -12,6 +12,8 @@ Dan has built this capability during his PhD in a Materials Science field and ho
 ## How can I get started?
 **Download the installer from the repository**. While the code has been written in MATLAB, the app is a standalone installation which does not require MATLAB software to use.
 
+Ensure the default_settings.txt file remains in the same folder as the ScaleBarIT app. If this is not found, upon opening app, the app will state that master default settings have been applied (text box to bottom left populated). If default_settings.txt is successfully found then the text box will read that custom default settings have been applied.
+
 ## Publishing and acknowledgement
 If you publish any of the images created using **ScaleBarIT**, please honour the licensing and cite this repository. You can get an APA or LaTeX formatted bibliographical reference using the 'Cite this repository' feature on the right-hand information menu.
 
