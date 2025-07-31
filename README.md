@@ -18,11 +18,15 @@ Ensure the default_settings.txt file remains in the same folder as the ScaleBarI
 If you publish any of the images created using **ScaleBarIT**, please honour the licensing and cite this repository. You can get an APA or LaTeX formatted bibliographical reference using the 'Cite this repository' feature on the right-hand information menu.
 
 ## How can I help?
-Please feel free to **add issues where necessary** or contact **Dan directly via email at daniel.scotson@manchester.ac.uk**.
+- Please feel free to **add issues where necessary** or contact **Dan directly via email at daniel.scotson@manchester.ac.uk**.
 
-Suggestions of improvements and additional features are extremely welcome. 
+- Suggestions of improvements and additional features are extremely welcome. 
 
-If you have a .tif image where the pixel size is not automatically detected, please raise this issue and Dan can look into adding this functionality.
+- If you have a .tif image where the pixel size is not automatically detected, please raise this issue and Dan can look into adding this functionality.
+
+- If you benefit from this app, please cite its use - it's great to see where this app is being used.
+
+- Consider supporting Dan at [Buy Me A Coffee](https://buymeacoffee.com/danscotson).
 
 ## Project maintenance
 Dan Scotson is the sole maintainer of this project.
