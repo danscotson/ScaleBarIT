@@ -2,6 +2,8 @@
 
 **Welcome to ScaleBarIT created by Dan Scotson**.
 
+![Screenshot of ScaleBarIT v1.6](ScaleBarIT_Screenshot.png "ScaleBarIT v1.6 screenshot")
+
 ## Why use ScaleBarIT?
 ScaleBarIT enables users to **add scale bars to images quickly and efficiently**. The basic steps involve choosing your image, specifying its pixel size, then choosing a region of interest and finally adding your scale bar of choice.
 
