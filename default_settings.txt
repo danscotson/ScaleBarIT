@@ -1,0 +1,60 @@
+# Overview of default settings file
+# Comments
+# Name followed by a colon is a property with a particular value.
+# For example, font:10 means fontsize of 10 is the default font size
+
+#defaultfoldername (insert complete folder name below)
+defaultfoldername: C:\
+
+#Autocrop (1 - crop original scale bar info, 0 - do not crop original scale bar info)
+autocrop: 1
+
+# font settings
+fontsize: 18
+fontname: Arial
+fontweight: normal
+fontangle: normal
+
+#ScaleBarColour (rgb1,rgb2,rgb3) so (1,1,1) is white
+BarColor_rgb1: 1
+BarColor_rgb2: 1
+BarColor_rgb3: 1
+
+#FontColor (rgb1,rgb2,rgb3) so (1,1,1) is white
+FontColor_rgb1: 1
+FontColor_rgb2: 1
+FontColor_rgb3: 1
+
+#BackgroundColor (rgb1,rgb2,rgb3) so (0,0,0) is black
+BackgroundColor_rgb1: 0
+BackgroundColor_rgb2: 0
+BackgroundColor_rgb3: 0
+
+
+# Scale Bar Position ('bottomRight' or 'bottomLeft')
+BarPosition: bottomRight
+
+#Add external scale bar on image not overlaid on image
+overlay: 0
+
+# BackgroundBar (Background = 1 or 0) 1 = internal scale bar, 0 = no background for scale bar
+backgroundBar: 1
+
+# Units ('m','mm','um','nm','pm')
+units: um
+
+#padFraction (height of the pad relative to the image size i.e. 0.1 = 10%).
+padFraction: 0.1
+
+# Type of scale bar ('hollow' or 'solid')
+scalebartype: solid
+
+#padFraction
+scalebarfraction: 0.1
+
+#defaultScaleBarSizes (must be a comma separated list i.e. 1,5,10 after the colon.
+defaultScaleBarSizes: 1,2,5,10,20,50,100,200,500,1000
+
+# Save settings
+dpi: 1000
+
