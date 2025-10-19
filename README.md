@@ -2,7 +2,7 @@
 
 **Welcome to ScaleBarIT created by Dan Scotson**.
 
-![Screenshot of ScaleBarIT v1.6](ScaleBarIT_Screenshot_v17.png "ScaleBarIT v1.7 screenshot")
+![Screenshot of ScaleBarIT v1.8](ScaleBarIT_Screenshot_v1_8.png "ScaleBarIT v1.8 screenshot")
 
 ## Why use ScaleBarIT?
 ScaleBarIT enables users to **add scale bars to images quickly and efficiently**. The basic steps involve choosing your image, specifying its pixel size, then choosing a region of interest and finally adding your scale bar of choice.
@@ -11,9 +11,7 @@ Dan has built this capability during his PhD in a Materials Science field and ho
 
 ## How can I get started?
 - **Download the installer from the repository**. While the code has been written in MATLAB, the app is a standalone installation which does not require MATLAB software to use.
-- Download the Matlab 2025a Runtime installer from here: **https://uk.mathworks.com/products/compiler/matlab-runtime.html** to ensure the app works.
-
-
+- Download the Matlab 2025b Runtime installer from here: **https://uk.mathworks.com/products/compiler/matlab-runtime.html** to ensure the app works (this should be included during installation but please download separately if not!).
 
 ## App Customisation
 - **The default_settings.txt is a text file to customise the app default settings**. For example, prefer Arial font over Calibri, size 20 over 16 or like your scale bars with a particular colour - all of this can be customised in this file.
